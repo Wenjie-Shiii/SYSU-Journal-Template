@@ -18,8 +18,8 @@
 - 如果在使用过程中遇到问题，欢迎通过邮箱联系我：shiwj9@mail2.sysu.edu.cn 进行学习交流。
 
 ### pdf效果
-```markdown
-![模板效果预览](https://github.com/Wenjie-Shiii/SYSU-Journal-Template/blob/master/example.pdf)
-```
+![模板效果预览](https://github.com/Wenjie-Shiii/SYSU-Journal-Template/blob/master/fig/example_0.png)
+
+![模板效果预览](https://github.com/Wenjie-Shiii/SYSU-Journal-Template/blob/master/fig/example_1.png)
 
 希望此模板能为您的学习和作业排版提供帮助！
