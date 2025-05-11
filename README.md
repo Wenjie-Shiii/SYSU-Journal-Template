@@ -19,7 +19,7 @@
 
 ### pdf效果
 ```markdown
-![模板效果预览](./example.pdf)
+![模板效果预览](https://github.com/Wenjie-Shiii/SYSU-Journal-Template/blob/master/example.pdf)
 ```
 
 希望此模板能为您的学习和作业排版提供帮助！
